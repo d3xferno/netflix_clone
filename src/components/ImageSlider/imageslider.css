@@ -1,0 +1,16 @@
+.wh{
+    background-image: url('https://media.glamour.com/photos/56957a138fa134644ec21f46/16:9/w_2580,c_limit/entertainment-2014-02-03-titanic-main.jpg');
+    /* background-repeat: no-repeat; */
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+}
+
+button{
+    transition: 0.7s;
+    color: black;
+}
+
+button:hover{
+    background-color: rgba(128,128,128,0.2);
+}
